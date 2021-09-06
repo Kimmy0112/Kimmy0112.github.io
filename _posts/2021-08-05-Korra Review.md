@@ -49,6 +49,7 @@ There are 2 places that Kuvira's army has not reunited, Zaofu and Republic City.
 * I didn't really like Team Avatar that much, it kind of felt like it was randomly assembled during desperate times, but out of those desperate needs, everyone does their own thing. 
 * Having different villains in different seasons, I feel like it’s less intriguing to the viewers to have a new antagonist every season (but I can see the positives of having multiple antagonists, but it's just not for me). 
 * I absolutely hated Prince Wu, I just thought he was annoying to be honest
+
 ### Final Thoughts And Grade 
 I would give Legend Of Korra a 7.5/10. There were some weak parts, like season 2 and sort of 4. Overall, I really enjoyed the series though -- being really hooked on season 1 and 3. I think that the characters of Korra were decent at best, and the CGI was really noticeably better than Avatar as well. I feel like compared to Avatar, it doesn't hold up, obviously, but Korra on it's own, it's pretty good, but we as viewers also have to keep in mind that Avatar the expectation for Avatar was way lower than Korra's because Avatar is "One of the best TV shows'', and Korra had to live up to that expectation, but ultimately, failed, which is not a bad thing, since it is very hard to live up to those expectations. One thing that I enjoyed was the more mature content of Korra compared to Avatar, instead of catering towards younger kids, it feels like it was catered towards teens.  <br><br>
  

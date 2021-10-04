@@ -18,9 +18,9 @@ The following below are the animes, movies, and Tv Shows and kdramas I would wan
 * Full Meta Alchemist Brotherhood   
 * Code Geass  
 * No game No life  
-* Promised Neverland  
+* <s> Promised Neverland </s> 
 * Jujutsu Kaisen  
-* Your Lie in April 
+* <s>Your Lie in April </s> 
 * Yi Gi Oh  
 * Naruto   
 * Tower of God  
@@ -34,5 +34,3 @@ The following below are the animes, movies, and Tv Shows and kdramas I would wan
 * Weather With You  
 * Your Name  
 
-# Sitcom
-* The Big Bang Theory

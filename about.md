@@ -9,7 +9,7 @@ output:
 ## About Me  
 
 Hello Everyone!  
-My name is Ian, and I am an `18 year old who is attending Huron University at Western.   
+My name is Ian, and I am an 18 year old who is attending Huron University at Western.   
 
 
 ### Passion and Interests

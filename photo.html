@@ -34,6 +34,10 @@ title: Photo
         filter: grayscale(100%);
         transform: scale(1.1);
     }
+    img{
+        width:25%;
+        height:25%; 
+    }
 </style>
 
 <body>
@@ -101,14 +105,17 @@ title: Photo
         "photo/56.JPG",
         "photo/57.JPG", 
         "photo/58.JPG",
-        "photo/59.JPG",           
+        "photo/59.JPG",         
     ];
-
+/*
+<a href = "photo/1.JPG"><img src ="photo/1.JPG" width = [width value of image]/10 height =[height value of image]/10></img></a>
+*/
     var div = document.getElementById("div1");
     for (let x = image.length; x > 0; x--) {
-        var img = new Image(428, 321);
+        var img = document.createElement("img")
         img.src = 'photo/' + x + '.JPG';
-
+        img.style.width = "25%"
+        img.style.height = "25%"
         var a = document.createElement("a");
         a.href = 'photo/' + x + '.JPG';
 

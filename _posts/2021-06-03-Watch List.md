@@ -15,7 +15,7 @@ The following below are the animes, movies, and Tv Shows and kdramas I would wan
 
 # Animes 
 * Seraph Of The End  
-* Full Meta Alchemist Brotherhood   
+* Full Metal Alchemist Brotherhood   
 * Code Geass  
 * No game No life  
 * <s> Promised Neverland </s> 
@@ -23,7 +23,8 @@ The following below are the animes, movies, and Tv Shows and kdramas I would wan
 * <s>Your Lie in April </s> 
 * Yi Gi Oh  
 * Naruto   
-* Tower of God  
+* Tower of God
+* Violet Evergarden   
 
 # KDrama 
 * True Beauty  

@@ -9,7 +9,7 @@ output:
 ## About Me  
 
 Hello Everyone!  
-My name is Ian, and I am an 18 year old Senior in High School. For College next year, I will be attending Huron University at Western for Management and Organizational Studies. More specifically, I will be either majoring in Finance (most likely) or Accounting with either a minor in Computer Science (most likely) or Psychology.  
+My name is Ian, and I am an `18 year old who is attending Huron University at Western.   
 
 
 ### Passion and Interests

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Sbows Or Animes I've Watched
-subtitle: Kdrama, anime, Tv shows, Movies 
+subtitle: Last Updated - December 29th 2020  
 categories: Anime 
 tags: [anime]
 output: 
@@ -11,14 +11,18 @@ output:
 ---
 # Animes
 * Attack On Titan
-* New Game! 
 * Promised Neverland
+* New Game! 
 * Your Lie in April
+* Arslan Senki 
 
 # Kdramas
 * Because This Is My First Life 
 
 # Movies 
+* Weathering With You
+* Final Fantasy VII: Advent Children
+* The Garden of Words 
 
 # TV Shows
 * Avatar The Last Airbender

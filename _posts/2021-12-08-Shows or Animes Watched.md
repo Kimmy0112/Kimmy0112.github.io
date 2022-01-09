@@ -24,6 +24,7 @@ output:
 * Final Fantasy VII: Advent Children
 * The Garden of Words 
 * Your Name
+* A Whisker Away
 
 # TV Shows
 * Avatar The Last Airbender

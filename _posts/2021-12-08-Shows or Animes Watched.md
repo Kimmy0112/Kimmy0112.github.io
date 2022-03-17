@@ -15,6 +15,10 @@ output:
 * New Game! 
 * Your Lie in April
 * Arslan Senki 
+* Violet Evergarden
+
+# Manga
+
 
 # Kdramas
 * Because This Is My First Life 

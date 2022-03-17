@@ -1,0 +1,79 @@
+---
+layout: default
+title: Tier List
+---
+
+<!--To access localhost bundle exec jekyll serve-->
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width =device-width, intial-scale = 1.0">
+
+    <!-- Global site tag (gtag.js) - Google Analytics -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-W6ERL4MJ0J"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-W6ERL4MJ0J');
+    </script>
+    
+</head>
+<style>
+    .gallery {
+        margin: 10px 10px;
+    }
+
+    .gallery img {
+        transition: 1s;
+        padding: 5px;
+    }
+
+    .gallery img:hover {
+        filter: grayscale(100%);
+        transform: scale(1.1);
+    }
+    img{
+        width:25%;
+        height:25%; 
+    }
+</style>
+
+    Here are tierlists I have made with my friend (With the exception of the kpop related ones)
+<body>
+    <div id="div1" class="gallery">
+        <!-- <a href ="photo/1.JPG"><img src = "photo/1.JPG" width = "428" height = "321"></a>-->
+    </div>
+</body>
+
+
+
+<script>
+    var tierList = [
+        "Tierlist/1.png",
+        "Tierlist/2.png",
+        "Tierlist/3.png",
+        "Tierlist/4.png",
+        "Tierlist/5.png",
+        "Tierlist/6.png",
+    ];
+/*
+<a href = "photo/1.JPG"><img src ="photo/1.JPG" width = [width value of image]/10 height =[height value of image]/10></img></a>
+*/
+    var div = document.getElementById("div1");
+    for (let x = tierList.length; x > 0; x--) {
+        var img = document.createElement("img")
+        img.src = 'Tierlist/' + x + '.png';
+        img.style.width = "25%"
+        img.style.height = "25%"
+        var a = document.createElement("a");
+        a.href = 'Tierlist/' + x + '.png';
+
+        document.getElementById("div1").appendChild(a).appendChild(img);
+    }
+
+</script>
+
+</html>

@@ -132,6 +132,7 @@ header_pages:
   - home.html
   - about.md
   - photo.html
+  - tierlist.html
   - categories.html
 
 # Page default value

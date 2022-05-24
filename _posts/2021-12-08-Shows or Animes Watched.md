@@ -16,7 +16,7 @@ output:
 * Your Lie in April
 * Arslan Senki 
 * Violet Evergarden
-
+**Update 5/24/2022**: I decided to make an Anilist account in order to track animes I've watched instead! https://anilist.co/user/Kimmy1209/
 # Manga
 
 

@@ -15,10 +15,13 @@ output:
 * New Game! 
 * Your Lie in April
 * Arslan Senki 
-* Violet Evergarden <br></br>
-**Update 5/24/2022**: I decided to make an Anilist account in order to track animes I've watched instead![My Anime Watch List](https://anilist.co/user/Kimmy1209/)
+* Violet Evergarden <br>
+**Update 5/24/2022**: I decided to make an Anilist account in order to track animes I've watched instead!                      [My Anime Watch List](https://anilist.co/user/Kimmy1209/)
+
+<br>
+
 # Manga
-*Attack on Titan 
+* Attack on Titan 
 
 # Kdramas
 * Because This Is My First Life 
